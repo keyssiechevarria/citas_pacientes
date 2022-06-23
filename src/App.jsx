@@ -14,12 +14,7 @@
           <p>holaa</p>
 
         </div>
-        <div>
-        <h1>Hola mundo c:</h1>
-        <h2>Mi primera línea con React</h2>
-        <h3>holaa</h3>
-
-      </div>
+        
      </>
     )
   }
